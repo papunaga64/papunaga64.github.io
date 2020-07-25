@@ -7,7 +7,7 @@ body {
   }
   .header-list li{
     /* floatプロパティをleftにしてください */
-    float:left;
+    
     padding: 33px 20px;
     text-align:right;
     
