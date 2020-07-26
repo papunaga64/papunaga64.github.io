@@ -58,6 +58,7 @@ body {
   .contents-item{
       float: left;
       margin-right: 40px;
+      width:16%;
   }
 
   .contents-item p{
