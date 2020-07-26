@@ -58,7 +58,7 @@ body {
   .contents-item{
       float: left;
       margin-right: 40px;
-      width:13%;
+      width:1%;
   }
 
   .contents-item p{
@@ -102,6 +102,7 @@ input, textarea {
   .footer-logo{
       font-size: 18px;
       float: left;
+      background-color: #FF0000;
   }
   .footer-list{
       float: right;
