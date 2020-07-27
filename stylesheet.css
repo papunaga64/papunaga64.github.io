@@ -61,6 +61,36 @@ body {
       margin-top: 30px;
       text-align:center;
   }
+.flex-list {
+  display: flex;
+}
+.flex-list li {
+  flex: auto;
+}
+
+@media (max-width: 1000px) {
+  .flex-list {
+    flex-wrap: wrap;
+  }
+  .flex-list li {
+    width: 50%;
+  }
+}
+
+/* スマホ向けレイアウト */
+/* ブレイクポイントが670px以下の時のメディアクエリを設定してください */
+@media (max-width: 670px) {
+  /* .flex-listにflex-directionを指定してください */
+  .flex-list {
+    flex-direction: column;
+  }
+  
+  /* .flex-list liにmarginを0 autoに指定してください */
+  .flex-list li {
+    margin: 0 auto;
+  }
+  
+}
 
   .contents-item p:hover {
   background-color: #afeeee;
