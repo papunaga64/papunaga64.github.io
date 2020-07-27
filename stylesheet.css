@@ -17,9 +17,6 @@ body {
     background-color: #a77349;
     color: #fff;
     height: 90px;
-    position:fixed;
-    top: 0;
-    z-index: 10;
   }
   
   /* header-logoの文字の大きさを36px、floatプロパティをleftにしてください */
