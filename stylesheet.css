@@ -71,7 +71,7 @@ body {
     flex-wrap: wrap;
   }
   .flex-list li {
-    width: 50%;
+    width: 33%;
   }
 }
 
