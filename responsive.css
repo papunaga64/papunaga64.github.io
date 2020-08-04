@@ -1,8 +1,8 @@
 
 /* タブレット向けレイアウト */
 @media (max-width: 1000px) {
-  .lesson {
-    width: 50%;
+  .contents-item {
+    width: 33%;
     margin-bottom: 50px;
   }
 }
@@ -12,7 +12,7 @@
 /* ブレイクポイントが670px以下の時のメディアクエリを設定してください */
 @media (max-width:670px) {
   /* .lessonのwidthを100%に指定してください */
-  .lesson {
+  .contents-item {
     width: 100%;
   }
   
