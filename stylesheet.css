@@ -12,6 +12,13 @@
   margin-right: auto;
 }
 
+.picture{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+
 
 body {
   font-family: "Avenir Next";
