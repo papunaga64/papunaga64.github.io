@@ -5,6 +5,10 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  .picture{
+    width:400px;
+    height:auto;
+  }
 }
 
 /* スマホ向けレイアウト */
