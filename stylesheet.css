@@ -41,6 +41,7 @@ li {
 .copy-container h2 {
   font-size: 60px;
   text-align:center;
+  width: 100%;
 }
 
 .copy-container span {
