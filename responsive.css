@@ -25,4 +25,8 @@
   text-align:center;
   width: 100%;
 　}
+  .picture{
+    width:250px;
+    height:auto;
+  }
 }
