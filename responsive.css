@@ -2,7 +2,7 @@
 /* タブレット向けレイアウト */
 @media (max-width: 1000px) {
   .contents-item {
-    width: 33%;
+    width: 50%;
     margin-bottom: 50px;
   }
 }
