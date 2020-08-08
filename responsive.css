@@ -1,5 +1,4 @@
 
-/* タブレット向けレイアウト */
 @media (max-width: 1000px) {
   .contents-item {
     width: 33%;
@@ -11,16 +10,10 @@
   }
 }
 
-/* スマホ向けレイアウト */
-
-/* ブレイクポイントが670px以下の時のメディアクエリを設定してください */
 @media (max-width:670px) {
-  /* .lessonのwidthを100%に指定してください */
   .contents-item {
     width: 100%;
   }
-  
-  /* <footer>の中身を中央寄せにしてください。 */
   .footer {
     text-align: center;
   }
